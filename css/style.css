@@ -2,63 +2,6 @@ body{
     background-color: #f2ebe9;
     font-family: cambria;
 }
-#header{
-    padding: 10px;
-    margin: 0px;
-    background-color: #eddcd9;
-}
-#logo{
-    width: 10%;
-}
-h1{
-    color: #264143;
-}
-.menu-items li{
-    color: #264143;
-    width: 500px;
-    display:inline;
-    list-style-type: none;
-    text-align: center;
-    cursor: pointer;
-    border-bottom: 3px solid #264143;
-    margin: 3px;
-    margin-top: 100px;
-    padding: 5px;
-    padding-left: 50px;
-    padding-right: 50px;
-}
-.menu-items #active{
-    color: #de5499;
-    border-bottom: 3px solid #de5499;
-}
-#menu-list{
-    text-align:center;
-}
-.section-title{
-    text-align: left;
-    padding: 10px;
-    margin: 20px;
-    font-size: 20px;
+.section-title h2 {
     border-bottom: 3px solid #eddcd9;
-}
-.personal-data{
-    
-}
-table{
-    padding: 20px;
-    margin: 20px;
-    
-}
-table td{
-    padding-right: 50px;
-}
-
-.achievements table td{
-    text-align: center;
-    padding: 50px;
-}
-#logo{
-    border-radius: 75px;
-    float: left;
-    margin: 10px;
 }
