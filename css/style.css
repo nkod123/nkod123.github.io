@@ -1,7 +1,10 @@
-body{
+body {
     background-color: #f2ebe9;
     font-family: cambria;
 }
 .section-title h2 {
     border-bottom: 3px solid #eddcd9;
+}
+#myname {
+    color: #ecff83;
 }
